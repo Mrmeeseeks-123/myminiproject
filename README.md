@@ -1,4 +1,4 @@
 # miniproject
 ## created by
-Chinmay Dixit (2000040100026)
+Chinmay Dixit (2000040100026)\n
 Ayush Kumar(2000040100025)
